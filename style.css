@@ -1,0 +1,30 @@
+main{
+    padding: 5px;
+    
+    margin-left: 200px;
+    margin-right: 200px;
+}
+header{
+    padding-top: 50px;
+    text-align: center;
+    color: white;
+    background-image: url(kepek/fejlec.jpg);
+    height: 120px;
+    
+    
+}
+.kozep{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    
+}
+aside{
+    border: solid black 1px;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(19, 160,255);
+    height: 50px;
+    padding-top: 40px;
+}
